@@ -72,7 +72,7 @@ W3C Validator and CSS (jigsaw) Validator were used to validate each of the pages
 
 ## Demo 
 
-Here is a ![Demo](https://perparimshabani.github.io/Project-1-HTML-CSS/)
+Here is you can see the website. ![Click](https://perparimshabani.github.io/Project-1-HTML-CSS/)
 
 ## Credits for the Content shown 
 All content you can see in this webbpage is written by me! 
