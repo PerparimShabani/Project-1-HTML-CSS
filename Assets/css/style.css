@@ -167,7 +167,7 @@ tr:nth-child(even) {
 
 /* Background picture for the schedule page */
 .schedule-page {
-  background-image: url(/Assets/Images/Schedule.jpg);
+  background-image: url(../Images/Schedule.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -216,7 +216,7 @@ tr:nth-child(even) {
   }
 
   .schedule-page {
-    background-image: url(/Assets/Images/Schedule.jpg);
+    background-image: url(../Images/Schedule.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -303,7 +303,7 @@ tr:nth-child(even) {
 
 /* fixing the img for both the webbpage and other portable devices */
 body.pricing-page {
-  background-image: url(/Assets/Images/Pricing.jpg);
+  background-image: url(../Images/Pricing.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -508,3 +508,20 @@ nav div a {
   padding-top: 10px;
 }
 
+.Error {
+  text-align: center; /* center the text of the 404 error file */
+  background-color: #ff9100;
+  padding: 20px;
+}
+
+.Error h1 {
+  font-size: 24px; /* Adjust the font size as needed */
+  color: rgb(0, 0, 0); /* Text color for the heading */
+  text-shadow: black;
+}
+
+.Error p {
+  font-size: 22px;
+  color: #030000;
+  font-weight: bold;
+}
