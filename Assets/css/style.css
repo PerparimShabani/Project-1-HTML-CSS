@@ -510,14 +510,14 @@ nav div a {
 
 .Error {
   text-align: center; /* center the text of the 404 error file */
-  background-color: #ff9100;
+  background-color: #ffffff;
   padding: 20px;
+  height: 50vh;
 }
 
 .Error h1 {
   font-size: 24px; /* Adjust the font size as needed */
   color: rgb(0, 0, 0); /* Text color for the heading */
-  text-shadow: black;
 }
 
 .Error p {
